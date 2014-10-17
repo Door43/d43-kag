@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kag:home|Door43 (kag)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kag|d43-kag repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kag/archive/master.zip|d43-kag.zip]]
+
+**Recent Changes**
+{{changes>ns = kag}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kag|Ethnologue data]]
+
